@@ -1,0 +1,6 @@
+C:\proyectos\ProImaging\src\ProImaging.java
+C:\proyectos\ProImaging\src\mvc\controller\OnFileEvent.java
+C:\proyectos\ProImaging\src\mvc\controller\OnTransformEvent.java
+C:\proyectos\ProImaging\src\mvc\view\ImageManager.java
+C:\proyectos\ProImaging\src\mvc\view\ImageUI.java
+C:\proyectos\ProImaging\src\mvc\view\ToolBar.java

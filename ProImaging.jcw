@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ProImaging</label>
+	</settings>
+	<users>
+		<user>
+			<path>ProImaging.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ProImaging.jcp</path>
+		</project>
+	</projects>
+</workspace>
